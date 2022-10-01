@@ -77,6 +77,5 @@ Desenvolvedor back-end pleno.
 
 ## Redes Sociais
 *  [Linkedin](https://linkedin.com/in/theo-alfonso-b0342b138)
-*  [Twitter](https://twitter.com/theo_alfonso)
 
 <br><br>
