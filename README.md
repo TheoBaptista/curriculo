@@ -1,5 +1,5 @@
 # Theo Baptista
-Desenvolvedor Web - Junior / Back-end.
+Desenvolvedor Back-end Java/Kotlin.
 
 :house:    Porto Alegre/RS <br>
 :iphone:   (51) 98023 - 7788 <br>
@@ -7,7 +7,7 @@ Desenvolvedor Web - Junior / Back-end.
 
 
 
-Meu nome é Theo Alfonso Baptista, Desenvolvedor Web Junior em Java. Atualmente estou focado no estudo de novas tecnologias para me consolidar como Desenvolvedor.
+Meu nome é Theo Alfonso Baptista, Desenvolvedor back-end.
 
 
 
@@ -18,12 +18,15 @@ Iniciado em 2019 - em andamento.<br>
 
 
 ## Experência Profissional
-* (2018 -  Atual) <br>
+* (2018 - fev/2020) <br>
 **IBGE - Instituto Brasileiro de Geografia e Estatística** -
 Agente de Pesquisas e Mapeamento na agência Porto Alegre - RS.
   * Coleta, acompanhamento, análise dos questionários das Pesquisas Estruturais por Empresa.
   * Encaminhar relatórios de crítica dos questionários para as empresas.
-  
+* (2018 -  2020) <br>
+**ZUP IT** -
+Desenvolvedor back-end pleno.
+
   
 
 ## Conhecimentos
@@ -39,24 +42,30 @@ Agente de Pesquisas e Mapeamento na agência Porto Alegre - RS.
 ### Front-end
 * HTML.
 * CSS.
+* SCSS
+* SASS
 
 ### UI Kits
 * Bootstrap 4.
 
 ### Frameworks Front-end
-* React  
+* Angular
 
 ### Linguagens de Programação
 * Java.
-* Javascript.
+* Typescript.
+* Python
+* Kotlin
 
 ### Frameworks Back-end
 * Spring
+* FastAPI
+* Micronaut
 
 ### Banco de Dados
 * MySQL.
-* MariaDB.
 * Oracle Database.
+* SQL server
 
 ### Sistemas de controle de versão
 * Git.
