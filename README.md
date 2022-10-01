@@ -23,7 +23,7 @@ Iniciado em 2019 - em andamento.<br>
 Agente de Pesquisas e Mapeamento na agência Porto Alegre - RS.
   * Coleta, acompanhamento, análise dos questionários das Pesquisas Estruturais por Empresa.
   * Encaminhar relatórios de crítica dos questionários para as empresas.
-* (2018 -  2020) <br>
+* (mar/2020 - atualmente) <br>
 **ZUP IT** -
 Desenvolvedor back-end pleno.
 
